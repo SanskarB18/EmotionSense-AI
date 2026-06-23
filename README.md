@@ -1,4 +1,4 @@
-# 🧠 EmotionSense AI
+# EmotionSense AI
 
 ### AI-Powered Emotion Recognition & Personalized Wellness Platform
 
@@ -6,7 +6,7 @@ EmotionSense AI is an intelligent emotion analytics platform that detects human 
 
 ---
 
-## 🚀 Key Highlights
+## Key Highlights
 
 ✅ Custom Trained ResNet50 Emotion Recognition Model
 ✅ Real-Time Webcam Emotion Detection
@@ -43,7 +43,7 @@ EmotionSense AI analyzes facial expressions through a live webcam feed and predi
 
 ---
 
-# 📸 Image Upload Analysis
+# Image Upload Analysis
 
 Users can upload an image and receive detailed emotion predictions along with confidence scores.
 
@@ -58,7 +58,7 @@ Users can upload an image and receive detailed emotion predictions along with co
 
 ---
 
-# 🎯 Personalized Recommendation Center
+# Personalized Recommendation Center
 
 One of the core features of EmotionSense AI.
 
@@ -68,7 +68,7 @@ Based on the detected emotion, the system generates personalized songs, movies, 
 
 ---
 
-# 📊 Emotion Analytics & Reports
+# Emotion Analytics & Reports
 
 Track emotional patterns over time through comprehensive analytics dashboards.
 
@@ -84,7 +84,7 @@ Track emotional patterns over time through comprehensive analytics dashboards.
 
 ---
 
-# 🤖 Custom ResNet50 Emotion Recognition Model
+# Custom ResNet50 Emotion Recognition Model
 
 The platform is powered by a custom-trained ResNet50 model developed using Transfer Learning on the FER2013 facial emotion dataset.
 
@@ -108,18 +108,32 @@ The platform is powered by a custom-trained ResNet50 model developed using Trans
 * 😲 Surprise
 * 🤢 Disgust
 
-### Training Artifacts
+### Training Accuracy Curve
 
-* Accuracy Curve
-* Loss Curve
-* Confusion Matrix
-* Performance Evaluation
+Shows the improvement in training and validation accuracy across epochs.
 
-![ResNet50 Model](screenshots/ResNet50Model.png)
+![Accuracy Curve](screenshots/accuracy_curve.jpg)
 
+### Training Loss Curve
+
+Demonstrates stable convergence and reduction in model loss during training.
+
+![Loss Curve](screenshots/loss_curve.jpg)
+
+### Confusion Matrix
+
+Visualizes class-wise prediction performance and evaluation of the trained model.
+
+![Confusion Matrix](screenshots/confusion_matrix.jpg)
+
+### Why ResNet50?
+
+ResNet50 was selected for its deep residual learning architecture, strong feature extraction capability, and proven performance in image classification tasks. Transfer Learning enabled efficient training while achieving high accuracy on emotion recognition.
+
+**Result:** The trained model achieved approximately **92% validation accuracy**, providing reliable emotion classification for real-world use cases.
 ---
 
-# 🛠️ Technology Stack
+# Technology Stack
 
 ### Artificial Intelligence & Machine Learning
 
@@ -149,7 +163,7 @@ The platform is powered by a custom-trained ResNet50 model developed using Trans
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 EmotionSense-AI/
@@ -178,7 +192,7 @@ streamlit run app.py
 
 ---
 
-# 🌟 Future Enhancements
+# Future Enhancements
 
 * Custom ResNet50 Production Deployment
 * Explainable AI Integration
@@ -189,7 +203,7 @@ streamlit run app.py
 
 ---
 
-# 👨‍💻 Developer
+# Developer
 
 **Sanskar Bardapure**
 
