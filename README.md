@@ -130,7 +130,6 @@ Visualizes class-wise prediction performance and evaluation of the trained model
 
 ResNet50 was selected for its deep residual learning architecture, strong feature extraction capability, and proven performance in image classification tasks. Transfer Learning enabled efficient training while achieving high accuracy on emotion recognition.
 Result: The trained model achieved approximately 92% validation accuracy, providing reliable emotion classification for real-world use cases.
----
 
 # Technology Stack
 
