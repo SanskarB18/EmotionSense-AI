@@ -10,3 +10,5 @@ snapshots/*
 history/*.csv
 
 .DS_Store
+
+*.pdf
