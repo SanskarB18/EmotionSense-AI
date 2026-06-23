@@ -62,23 +62,7 @@ Users can upload an image and receive detailed emotion predictions along with co
 
 One of the core features of EmotionSense AI.
 
-Based on the detected emotion, the system generates:
-
-### 🎵 Personalized Songs
-
-Curated music recommendations aligned with the user's emotional state.
-
-### 🎬 Personalized Movies
-
-Emotion-aware movie suggestions designed to uplift, motivate or relax users.
-
-### 💡 Wellness Coach
-
-Provides practical emotional wellness guidance based on current mood.
-
-### 🚀 Productivity Coach
-
-Offers actionable suggestions to improve focus, energy and productivity.
+Based on the detected emotion, the system generates personalized songs, movies, wellness coach, productivity coach and quote of the day.!
 
 ![Recommendation Center](screenshots/RecommendationCenter.png)
 
