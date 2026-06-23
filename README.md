@@ -186,9 +186,10 @@ cd EmotionSense-AI
 pip install -r requirements.txt
 
 streamlit run app.py
-```
+
 ⚠️ Recommended Python Version: **Python 3.11**
 DeepFace and TensorFlow may not work correctly with Python 3.14 or newer versions.
+```
 ---
 
 # Future Enhancements
