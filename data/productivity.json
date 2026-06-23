@@ -1,0 +1,64 @@
+{
+  "happy": {
+    "advice": "Great time for creative and challenging work.",
+    "tasks": [
+      "Brainstorm ideas",
+      "Work on important goals",
+      "Learn a new skill"
+    ]
+  },
+
+  "sad": {
+    "advice": "Keep expectations small today and focus on progress.",
+    "tasks": [
+      "Complete one small task",
+      "Organize your workspace",
+      "Review notes"
+    ]
+  },
+
+  "angry": {
+    "advice": "Channel energy into focused work rather than reactions.",
+    "tasks": [
+      "Exercise for 15 minutes",
+      "Work on a challenging problem",
+      "Clear pending tasks"
+    ]
+  },
+
+  "fear": {
+    "advice": "Avoid large goals right now. Focus on one next step.",
+    "tasks": [
+      "Create a checklist",
+      "Complete one task",
+      "Plan tomorrow"
+    ]
+  },
+
+  "surprise": {
+    "advice": "Use your heightened alertness to explore new opportunities.",
+    "tasks": [
+      "Brainstorm new ideas",
+      "Research a topic",
+      "Try a new approach"
+    ]
+  },
+
+  "neutral": {
+    "advice": "This is a good state for consistent productive work.",
+    "tasks": [
+      "Follow your schedule",
+      "Work on long-term goals",
+      "Complete routine tasks"
+    ]
+  },
+
+  "disgust": {
+    "advice": "Focus on constructive actions and avoid dwelling on negatives.",
+    "tasks": [
+      "Clean your workspace",
+      "Organize files",
+      "Finish a pending task"
+    ]
+  }
+}

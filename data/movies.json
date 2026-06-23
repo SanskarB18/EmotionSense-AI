@@ -1,0 +1,43 @@
+{
+  "happy": [
+    "Zindagi Na Milegi Dobara",
+    "3 Idiots",
+    "The Pursuit of Happyness"
+  ],
+
+  "sad": [
+    "Good Will Hunting",
+    "The Shawshank Redemption",
+    "A Beautiful Mind"
+  ],
+
+  "angry": [
+    "Rocky",
+    "The Dark Knight",
+    "Ford v Ferrari"
+  ],
+
+  "fear": [
+    "The Pursuit of Happyness",
+    "Hidden Figures",
+    "The Martian"
+  ],
+
+  "surprise": [
+    "Inception",
+    "Interstellar",
+    "The Prestige"
+  ],
+
+  "neutral": [
+    "Forrest Gump",
+    "The Intern",
+    "Chef"
+  ],
+
+  "disgust": [
+    "Erin Brockovich",
+    "The Social Network",
+    "Spotlight"
+  ]
+}

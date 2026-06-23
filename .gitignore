@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+.vscode/
+
+snapshots/*
+!snapshots/.gitkeep
+
+history/*.csv
+
+.DS_Store

@@ -1,0 +1,12 @@
+streamlit
+deepface
+tensorflow
+tf-keras
+opencv-python
+pandas
+numpy
+pillow
+streamlit-webrtc
+av
+matplotlib
+reportlab

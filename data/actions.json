@@ -1,0 +1,43 @@
+{
+  "happy": [
+    "Celebrate your wins today",
+    "Spend time with loved ones",
+    "Start something creative"
+  ],
+
+  "sad": [
+    "Take a 10-minute walk",
+    "Call a close friend",
+    "Write your thoughts in a journal"
+  ],
+
+  "angry": [
+    "Drink water",
+    "Take deep breaths",
+    "Avoid making impulsive decisions"
+  ],
+
+  "fear": [
+    "Break tasks into smaller steps",
+    "Focus on one thing at a time",
+    "Practice a grounding exercise"
+  ],
+
+  "surprise": [
+    "Reflect on what happened",
+    "Capture your thoughts in a journal",
+    "Stay open to new opportunities"
+  ],
+
+  "neutral": [
+    "Review your goals",
+    "Plan your next task",
+    "Learn something new"
+  ],
+
+  "disgust": [
+    "Step away from the situation briefly",
+    "Focus on things you can control",
+    "Redirect energy into productive work"
+  ]
+}

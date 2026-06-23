@@ -1,0 +1,43 @@
+{
+  "happy": [
+    "Happy - Pharrell Williams",
+    "Can't Stop The Feeling - Justin Timberlake",
+    "Good Life - OneRepublic"
+  ],
+
+  "sad": [
+    "Fix You - Coldplay",
+    "Someone Like You - Adele",
+    "Let Her Go - Passenger"
+  ],
+
+  "angry": [
+    "Believer - Imagine Dragons",
+    "Stronger - Kanye West",
+    "Remember The Name - Fort Minor"
+  ],
+
+  "fear": [
+    "Hall of Fame - The Script",
+    "Unstoppable - Sia",
+    "Fight Song - Rachel Platten"
+  ],
+
+  "surprise": [
+    "On Top Of The World - Imagine Dragons",
+    "Adventure Of A Lifetime - Coldplay",
+    "Good Time - Owl City"
+  ],
+
+  "neutral": [
+    "Perfect - Ed Sheeran",
+    "Photograph - Ed Sheeran",
+    "Yellow - Coldplay"
+  ],
+
+  "disgust": [
+    "Titanium - David Guetta ft. Sia",
+    "Rise Up - Andra Day",
+    "Stronger - Kelly Clarkson"
+  ]
+}
